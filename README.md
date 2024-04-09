@@ -39,3 +39,7 @@ The math behind the neural network involves various calculations, such as matrix
 Below is the simple architecture:
 
 ![Neural Network Layers](NN-layers.jpeg)
+
+
+### Collaboration
+Collaborated with [Şevval Bulburu](https://github.com/sevvalbulburu)
